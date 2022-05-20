@@ -1,0 +1,10 @@
+customer_name:AS
+customer_address:AD
+customer_phone_number:DA
+courier:5
+status:Order Recived
+customer_name:DDD
+customer_address:DDD
+customer_phone_number:34654654
+courier:4
+status:Order Recived
